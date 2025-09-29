@@ -25,9 +25,6 @@
     <Reference Include="Assembly-CSharp">
 	<HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="EasyDeliveryAPI">
-      <HintPath>..\EasyDeliveryAPI\bin\Debug\net472\EasyDeliveryAPI.dll</HintPath>
-    </Reference>
     <Reference Include="netstandard">
       <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\netstandard.dll</HintPath>
     </Reference>
